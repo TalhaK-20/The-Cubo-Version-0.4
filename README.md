@@ -8,13 +8,11 @@
 - **Immersive Environments:** Explore meticulously designed worlds filled with stunning visuals and immersive environments that draw players into the game's universe.
 - **Dynamic Characters:** Encounter a variety of dynamic characters, each with their own unique traits and personalities, adding depth to the gaming experience.
 - **Challenging Levels:** Navigate through challenging levels that test your skills and offer a rewarding sense of accomplishment upon completion.
-- **Customizable Controls:** Enjoy the flexibility of customizable controls, allowing players to tailor their gaming experience according to their preferences.
 - **Interactive Elements:** Interact with a variety of in-game elements, including objects, puzzles, and obstacles, to progress through the game.
 
 ## Technologies Used:
 - **Unity Engine:** Utilized for game development, providing a robust framework for creating interactive and visually appealing games.
-- **C# Programming Language:** Leveraged to implement game logic, scripting behaviors, and creating interactive elements within the game.
-- **Graphics and Animation:** Employed Unity's built-in tools for graphics rendering and animation to bring the game's world and characters to life.
+- **C# Programming Language:** Leveraged to implement game logic, scripting behaviours, and creating interactive elements within the game.
 - **Audio Integration:** Integrated sound effects and background music to enhance the overall gaming experience and immersion.
 
 ## Development Process:
@@ -31,9 +29,6 @@
 
 ## Contributing:
 **The Cubo** welcomes contributions from fellow game developers, enthusiasts, and contributors. Whether it's bug fixes, feature enhancements, or creative ideas, contributions of all forms are highly appreciated. Please refer to the contribution guidelines for more information on how to get involved.
-
-## License:
-This project is licensed under the MIT License, allowing for flexibility in using, modifying, and distributing the game's source code and assets. See the license file for more details.
 
 ## Acknowledgments:
 Special thanks to the Unity community, online tutorials, and resources that have been instrumental in my learning journey. Your support and guidance have been invaluable in making this project a reality.
